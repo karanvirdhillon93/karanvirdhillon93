@@ -1,3 +1,6 @@
+# Karanvir Dhillon
+I'm Karanvir from Victoria, BC and I work on applications and Development. I really enjoy learning languages and frameworks , and have professional development experience in Wordpress. I also enjoy enjoy ui, design, and databases in general
+
 <h2>Qualifications</h2>
 
 * 8 Months of work Experience as a Software Developer
