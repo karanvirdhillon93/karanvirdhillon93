@@ -10,7 +10,7 @@ I'm Karanvir from Victoria, BC and I work on applications and Development. I rea
 <h2>Qualifications</h2>
 
 * 8 Months of work Experience as a Software Developer
-* 3 Months of work Experience with my own start-up company
+* 3 Months of work Experience with a private application
 * ICS Diploma
 * Computer technician Cetification
 * Certified Google Developer
