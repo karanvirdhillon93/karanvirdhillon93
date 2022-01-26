@@ -1,4 +1,5 @@
 <h2>Qualifications</h2>
+
 * 8 Months of work Experience as a Software Developer
 * 3 Months of work Experience with my own start-up company
 * ICS Diploma
