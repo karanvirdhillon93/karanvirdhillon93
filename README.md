@@ -1,6 +1,6 @@
 
 <h3>Technologies used 🛠️</h3>
- * * SQL
+*SQL
 * AMP
 * React
 * Javascript
