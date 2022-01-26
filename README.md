@@ -2,6 +2,7 @@
 I'm Karanvir from Victoria, BC and I work on applications and Development. I really enjoy learning languages and frameworks , and have professional development experience in Wordpress. I also enjoy enjoy ui, design, and databases in general
 
 <h2>Work Experience </h2>
+
 * Dyspatch (Junior Software Developer)
 * RFDM Solutions (Junior Full Stack Developer)
 * Private application development ( Android developer )
