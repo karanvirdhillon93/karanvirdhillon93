@@ -3,8 +3,8 @@ I'm Karanvir from Victoria, BC and I work on applications and Development. I rea
 
 <h2>Work Experience </h2>
 
-* Dyspatch (Junior Software Developer)
-* RFDM Solutions (Junior Full Stack Developer)
+* Co-op at Dyspatch (Junior Software Developer)
+* Internship at RFDM Solutions (Junior Full Stack Developer)
 * Certn (Junior SDET)
 * Private application development ( Android developer )
 
